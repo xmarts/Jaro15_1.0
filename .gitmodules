@@ -17,3 +17,8 @@
 	path = xmarts/addenda_tiendas3b
 	url = git@github.com:xmarts/addenda_tiendas3b.git
 	branch = 15.0
+
+[submodule "xmarts/ieps_calculation"]
+	path = xmarts/ieps_calculation
+	url = git@github.com:xmarts/ieps_calculation.git
+	branch = 15.0-dev-victoralonsoxmarts
