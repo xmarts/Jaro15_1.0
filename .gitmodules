@@ -27,3 +27,8 @@
 	path = xmarts/cfdi4-enterprise
 	url = git@github.com:xmarts/cfdi4-enterprise.git
 	branch = 15.0
+
+[submodule "xmarts/l10n-mx-cartaporte"]
+	path = xmarts/l10n-mx-cartaporte
+	url = git@github.com:xmarts/l10n-mx-cartaporte.git
+	branch = 15.0
