@@ -32,3 +32,8 @@
 	path = xmarts/l10n-mx-cartaporte
 	url = git@github.com:xmarts/l10n-mx-cartaporte.git
 	branch = 15.0
+
+[submodule "xmarts/addendas_soriana"]
+	path = xmarts/addendas_soriana
+	url = git@github.com:xmarts/addendas_soriana.git
+	branch = 15.0
